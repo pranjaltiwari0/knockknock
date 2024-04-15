@@ -175,6 +175,8 @@ p{
 @media (max-width:992px){
     .title-img{
        position: static;
+        margin-right: auto;
+        margin-left: auto;
        transform: rotate(0);
        width: 60%;
     }
